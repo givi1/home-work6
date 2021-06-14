@@ -5,6 +5,8 @@
     padding-left: 44.8px;
     padding-top:15px;
     margin-left: 20px;
+    text-decoration: none;
+    
 }
 .div3{
     margin-top: 19px;
@@ -16,14 +18,18 @@ footer{
 }
 .div1{
      width: 789px;
-     margin-left: 260px; 
+     margin-left: 800px; 
      display: inline-block;
+     margin-top: -600px;
    
 }
 .section1{
     
     display: block;
-    margin-top: 1px;
+    margin-top:- 60px;
+    display: inline-block; 
+     width: 444px; height: auto;
+     margin-left: 20px;
 
 }
 .img1{
@@ -67,16 +73,19 @@ margin-bottom: 16px;
     font-family: 'Poppins1 ';
     width: 374;
     height: 155;
+    font-size: 42px;
 }
 .p2{
     font-family: 'Poppins2 ';
     width:444 ;
     height:78 ;
+    font: size 16px; ;
 
 }
 .p3{font-family: 'Poppins3 ';
     width:444 ;
     height:78 ;
+    font: size 14px; ;
 
 }
 
